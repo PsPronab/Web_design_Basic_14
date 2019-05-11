@@ -1,0 +1,78 @@
+body
+{
+    padding: 0;
+    margin: 0;
+}
+.one
+{
+    margin: auto;
+    width: 1000px;
+}
+.left
+{
+    background-color: rgba(135, 151, 151, 0.06);
+    width: 32%;
+    float: left;
+}
+.mid
+{
+    background-color: rgb(195, 213, 18);
+    width: 32%;
+    float: left;
+}
+.right
+{
+    background-color: rgba(20, 22, 22, 0.84);
+    width: 32%;
+    float: left;
+}
+.pic1
+{
+    padding-left: 30px;
+    padding-top: 30px;
+    width: 40px;
+    height: 40px;
+}
+h2
+{
+    padding-left: 30px;
+    font-size: 35px;
+    margin-top: 12px;
+    
+}
+p{
+    padding-left: 30px;
+    font-size: 16px;
+    margin-bottom: 24px;
+    
+}
+.btn
+{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    background: rgba(210, 180, 140, 0);
+    border: 1px solid rgb(185, 245, 22);
+    padding: 7px; 
+}
+
+.gradient
+{
+    height: 200px;
+    background-image: radial-gradient(red, blue);
+}
+.shado
+{
+    height: 100px;
+    margin: 10px;
+    background: rgb(16, 40, 173);
+    box-shadow: inset -15px 0 #312e29;
+    
+}
+.text-shado
+{
+    text-shadow: 3px 2px 5px rgba(155, 150, 150, 0.93);
+    font-size: 30px;
+}
+
+
+
